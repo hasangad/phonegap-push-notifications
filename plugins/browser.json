@@ -1,0 +1,28 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "com.rige.notifrss"
+        },
+        "phonegap-plugin-push": {
+            "SENDER_ID": "XXXXXXX",
+            "PACKAGE_NAME": "com.rige.notifrss"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "com.rige.notifrss"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "com.rige.notifrss"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.rige.notifrss"
+        }
+    },
+    "dependent_plugins": {}
+}

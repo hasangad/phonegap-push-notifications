@@ -1,0 +1,11 @@
+{
+    "name": "notifrss",
+    "version": "1.0.0",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "variables":{
+        "SENDER_ID": "50492000753"
+    },
+    "locator":"phonegap-plugin-push"
+}
