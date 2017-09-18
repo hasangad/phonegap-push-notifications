@@ -60,7 +60,7 @@ var app = {
         console.log('calling push init');
         var push = PushNotification.init({
             "android": {
-                "senderID": "50492000753",
+                "senderID": "499005818743",
                 "forceShow" : true,
                 "vibrate" : true
             },
